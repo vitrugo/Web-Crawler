@@ -1,8 +1,8 @@
 {
   "name": "projeto-faculdade",
-  "version": "1.0.0",
-  "description": "Passando musicas para o BD",
-  "main": "classificacao.js",
+  "version": "2.0.0",
+  "description": "Passando o id e nome des pesquisas do lapapedia para o BD",
+  "main": "wikiiAPI.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
